@@ -1,0 +1,15 @@
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\bin\Debug\net6.0\Annex1ProjectCS.exe
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\bin\Debug\net6.0\Annex1ProjectCS.deps.json
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\bin\Debug\net6.0\Annex1ProjectCS.runtimeconfig.json
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\bin\Debug\net6.0\Annex1ProjectCS.dll
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\bin\Debug\net6.0\Annex1ProjectCS.pdb
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\obj\Debug\net6.0\Annex1ProjectCS.csproj.AssemblyReference.cache
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\obj\Debug\net6.0\Annex1ProjectCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\obj\Debug\net6.0\Annex1ProjectCS.AssemblyInfoInputs.cache
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\obj\Debug\net6.0\Annex1ProjectCS.AssemblyInfo.cs
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\obj\Debug\net6.0\Annex1ProjectCS.csproj.CoreCompileInputs.cache
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\obj\Debug\net6.0\Annex1ProjectCS.dll
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\obj\Debug\net6.0\refint\Annex1ProjectCS.dll
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\obj\Debug\net6.0\Annex1ProjectCS.pdb
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\obj\Debug\net6.0\Annex1ProjectCS.genruntimeconfig.cache
+C:\pop\programare\Annex1ProjectCS\Annex1ProjectCS\obj\Debug\net6.0\ref\Annex1ProjectCS.dll
